@@ -3,3 +3,4 @@
 * I will be able to tweet from the command line 
 * I will be able to read tweets
 * I will add a third line for test running
+* I will be able to tweet from the command line 
